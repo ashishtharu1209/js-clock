@@ -1,0 +1,35 @@
+
+body{
+    margin: 0%;
+    padding: 0%;
+    background: black;
+    background-image: url(a.jpg);
+}
+.container{
+    font-family: 'Orbitron', sans-serif;
+    padding: 30px 30px;
+    padding-bottom: 30px;
+    color:aliceblue;
+    font-weight: bold;
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%, -50%);
+    font-size: 150px;
+    white-space: nowrap;
+    box-shadow: 0 25px 45px rgba(0, 0, 0, 0.1);
+    border-right: 30px solid yellow;
+    border-top:30px solid cornsilk; 
+    border-bottom: 30px solid darkorchid;
+    border-left: 30px solid greenyellow;
+    border-radius: 40px;
+    background-color:black;
+}
+.fas{
+    color:springgreen;
+    font-size: smaller;
+}
+span{
+    color:red;
+}
+
